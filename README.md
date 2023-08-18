@@ -1,5 +1,10 @@
 # CPP Todo List
 
+A really really basic example of a Todo List type of
+project using C++. 
+
+Watch it on YouTube - https://youtu.be/D17rZyd9r18
+
 ## Developer Notes
 
 - `git clone git@github.com:erikyuzwa/cpp-todo-list-for-youtube.git`
